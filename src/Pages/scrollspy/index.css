@@ -1,0 +1,21 @@
+.scrollspy {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  background: #fff;
+  top: 56px;
+  width: 100%;
+}
+
+.scrollspy section {
+  padding: 10px;
+}
+
+.nav-link a {
+  background: red;
+  color: #fff;
+  border: 1px solid #fff;
+}
+html {
+  scroll-behavior: smooth;
+}

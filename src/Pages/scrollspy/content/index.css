@@ -1,0 +1,30 @@
+#section-1 {
+  padding-top: 50px;
+  height: 500px;
+  color: #fff;
+  background-color: #1e88e5;
+}
+#section-2 {
+  padding-top: 50px;
+  height: 500px;
+  color: #fff;
+  background-color: #673ab7;
+}
+#section-3 {
+  padding-top: 50px;
+  height: 500px;
+  color: #fff;
+  background-color: #ff9800;
+}
+
+section {
+  height: 100vh;
+}
+
+.scroll-cont {
+  padding-top: 44px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
